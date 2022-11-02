@@ -17,9 +17,9 @@ Any [Chromium-based](https://www.chromium.org/chromium-projects/) browser
         - If you download the .zip archive, extract it.
 
 2. Open your browser's extension manager
-    - [Chrome](chrome://extensions)
-    - [Brave](brave://extensions)
-    - [Edge](edge://extensions)
+    - Chrome: chrome://extensions
+    - Brave: brave://extensions
+    - Edge:edge://extensions
 
 3. Enable Developer Mode
     - Button for this varies for each browser, but it exists in them all.
